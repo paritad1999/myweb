@@ -1,0 +1,14 @@
+{
+  "name": "Health KPI Calculator",
+  "short_name": "Health KPI",
+  "description": "คำนวณ BMI น้ำหนักอุดมคติ และแคลอรี่",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#185FA5",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
